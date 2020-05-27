@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=down":  { "model": "yogttt:block/explosive_bundle" },
+    "facing=up":    { "model": "yogttt:block/explosive_bundle", "x": 180  },
+    "facing=north": { "model": "yogttt:block/explosive_bundle_horizontal" },
+    "facing=south": { "model": "yogttt:block/explosive_bundle_horizontal", "y": 180 },
+    "facing=west":  { "model": "yogttt:block/explosive_bundle_horizontal", "y": 270 },
+    "facing=east":  { "model": "yogttt:block/explosive_bundle_horizontal", "y": 90 }
+  }
+}

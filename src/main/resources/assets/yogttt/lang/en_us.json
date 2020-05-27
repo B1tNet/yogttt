@@ -1,0 +1,13 @@
+{
+  "itemGroup.yogttt": "YogTTT",
+
+  "item.yogttt.teleporter": "Teleporter",
+  "item.yogttt.medkit": "MedKit",
+  "item.yogttt.homerun_bat": "Homerun Bat",
+  "item.yogttt.explosive_cell": "Explosive Cell",
+  "item.yogttt.cfour_timer": "C4 Timing Circuit",
+  "item.yogttt.donconnon": "Donconnon",
+
+  "block.yogttt.cfour": "C4 Explosive",
+  "block.yogttt.explosive_bundle": "Explosive Bundle"
+}

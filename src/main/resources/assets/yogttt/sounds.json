@@ -1,0 +1,19 @@
+{
+  "entity.doncon_head.ambient": {
+    "category": "entity",
+    "subtitle": "entity.doncon_head.ambient",
+    "sounds": [{ "name": "yogttt:entity/doncon_head/ambient", "stream": true }]
+  },
+
+  "item.jihad_bomb.use" : {
+    "category": "item",
+    "subtitle": "item.jihad_bomb.use",
+  "sounds": [{"name": "yogttt:item/jihad_bomb/use", "stream": true}]
+  },
+
+  "item.jihad_bomb.explosion" : {
+    "category": "item",
+    "subtitle": "item.jihad_bomb.explosion",
+    "sounds": [{"name": "yogttt:item/jihad_bomb/explosion", "stream": true}]
+  }
+}

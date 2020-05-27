@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#/#",
+    "XXX",
+    "#/#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "X": {
+      "item": "minecraft:gunpowder"
+    },
+    "/": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "yogttt:explosive_cell"
+  }
+}

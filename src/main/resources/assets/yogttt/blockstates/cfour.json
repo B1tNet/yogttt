@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=down":  { "model": "yogttt:block/cfour" },
+    "facing=up":    { "model": "yogttt:block/cfour", "x": 180  },
+    "facing=north": { "model": "yogttt:block/cfour_horizontal" },
+    "facing=south": { "model": "yogttt:block/cfour_horizontal", "y": 180 },
+    "facing=west":  { "model": "yogttt:block/cfour_horizontal", "y": 270 },
+    "facing=east":  { "model": "yogttt:block/cfour_horizontal", "y": 90 }
+  }
+}
